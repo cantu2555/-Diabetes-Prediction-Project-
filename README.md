@@ -34,7 +34,7 @@ Gender Comparison:  <br/>
 <img src="https://i.imgur.com/BByQg6H.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Time series regression:  <br/>
+Modeling:  <br/>
 <img src="https://i.imgur.com/Ugo8twf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
