@@ -23,19 +23,19 @@ Our goal is crystal clear: to empower healthcare professionals in identifying in
 
 <p align="center">
 Age Distribution: <br/>
-<img src="https://i.imgur.com/jlhNGfr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/fPFH8EE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Gender Comparison:  <br/>
-<img src="https://i.imgur.com/4p7Sttr.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/wAEtJRN.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
  Body Mass Index Distribution: <br/>
-<img src="https://i.imgur.com/BByQg6H.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/JSCaLo5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Modeling:  <br/>
-<img src="https://i.imgur.com/Ugo8twf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/1scAuOC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
