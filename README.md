@@ -22,15 +22,15 @@ Our goal is crystal clear: to empower healthcare professionals in identifying in
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Cumulative Distribution Function (CDFs): <br/>
+Age Distribution: <br/>
 <img src="https://i.imgur.com/jlhNGfr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-observed correlations:  <br/>
+Gender Comparison:  <br/>
 <img src="https://i.imgur.com/4p7Sttr.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
- log distribution analysis on returns: <br/>
+ Body Mass Index Distribution: <br/>
 <img src="https://i.imgur.com/BByQg6H.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
